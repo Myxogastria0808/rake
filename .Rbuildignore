@@ -1,3 +1,5 @@
-^LICENSE\.md$
+LICENSE
+LICENSE.md
+NEWS.md
 flake.nix
-flake.nix
+flake.lock
